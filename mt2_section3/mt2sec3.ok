@@ -1,0 +1,18 @@
+{
+    "name": "Midterm 2 Question 3: order",
+    "endpoint": "cal/cs61a/sp20/mt2_q3_order",
+    "src": [
+        "order.py"
+    ],
+    "tests": {
+        "tests/a.py": "ok_test",
+        "tests/b.py": "ok_test"
+    },
+    "protocols": [
+        "restore",
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
